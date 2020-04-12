@@ -1,3 +1,5 @@
+package com.algorithm.S20200207;
+
 import org.junit.Before;
 import org.junit.Test;
 
